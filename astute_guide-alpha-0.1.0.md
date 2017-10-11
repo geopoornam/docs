@@ -51,7 +51,7 @@ Discounts define an actual discount type and amount that will be applied to end 
 
 #### RAB Rates
 
-*Admin / Billing / Configuration / Discounts*
+*Admin / Billing / Configuration / RAB Rates*
 
 RAB rates defines a resources rates for resource-allocation-based billing.
 
